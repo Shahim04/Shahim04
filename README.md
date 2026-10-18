@@ -71,8 +71,7 @@ A graduation project focused on phishing-URL detection. My contribution included
 
 - **Email:** shhmrhahlh8@gmail.com
 - **GitHub:** [@Shahim04](https://github.com/Shahim04)
-- **LinkedIn:** Add your LinkedIn profile URL here
-
+- **LinkedIn:** https://www.linkedin.com/in/shahim-rhahleh-7b7350288/
 ---
 
 *I’m interested in Data Analyst and Business Intelligence opportunities where I can use SQL, Python, and visualization to turn data into actionable insights.*
