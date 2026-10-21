@@ -34,12 +34,12 @@ A SQL-focused project exploring sales trends, product performance, and customer 
 
 [View the project](https://github.com/Shahim04/sql-sales-customer-product-analysis)
 
-### 3. LaLiga 2025–26 Stats Dashboard
-**Power BI · Football Analytics**
+### 3. Marketing Campaign Data Cleaning & Standardization Pipeline
+**Python · Data Cleaning**
 
-An interactive dashboard for exploring team and player performance across the Spanish LaLiga season.
+Python data cleaning and ETL pipeline applied to raw, un-sanitized marketing campaign data.
 
-[View the project](https://github.com/Shahim04/LaLiga_25-26-stats_Dashboard)
+[View the project](https://github.com/Shahim04/Marketing-Campaign-Data-Cleaning-Standardization-Pipeline)
 
 ### 4. Mousa Al-Tamari Player Analysis
 **Python · Jupyter Notebook · Football Analytics**
